@@ -1,0 +1,49 @@
+1. Prerrogativas
+1.1. O PF.Dimension é um software proprietário, ou seja, é aquele cuja cópia, redistribuição ou modificação são proibidos. É necessário solicitar permissão ou pagar para utilizar.
+1.1.1. No caso do PF.Dimension será necessário solicitar permissão para utilização.
+1.2. O PF.Dimension será disponibilizado na modalidade Freeware, software proprietário que é disponibilizado gratuitamente, mas não pode ser modificado.
+1.3. ADWARE - O PF.Dimension não embutirá nenhuma espécie de propaganda.
+1.3.1. Eventualmente os parceiros para treinamento, palestras, worksohps e desenvolvimento, poderão ter suas logomarcas divulgadas na página principal com link apontando para os respectivos sítios.
+1.3.2. Não haverá "monetização" caso seja efetuado algum clique nas logomarcas dos parceiros.
+1.4. FREEWARE - O PF.Dimension é gratuito ou freeware e possui suas funcionalidades completas por tempo ilimitado sem custo monetário. A licença não restringe o tipo de uso, como uso para fins não lucrativos, não comerciais, uso acadêmico, entre outros.
+1.4. Dessa forma a licença é "gratuita" para quaisquer fins.
+1.5. O PF.Dimension não se responsabiliza por cobrança de terceiros na utilização do "sistema".
+2. Modelo de Software-as-a-Service
+2.1. O PF.Dimension, neste primeiro estágio de maturidade será disponibilizado apenas na modalidade SaaS em forma Freeware, bastando apenas a solicitação de inscrição através de um usuário "administrador".
+2.2. O "administrador" será responsável por toda a operação no PF.Dimension.
+2.3. Não haverá forma de acesso dos "desenvolvedores" do PF.Dimension para auxiliar nas atividades, independentes, do "administrador".
+2.4. Poderá haver intervenção em forma de treinamento, workshop e/ou via "chat".
+2.5. No caso das interações via "chat", poderá ser cobrado um valor à parte pelo suporte.
+2.6. O PF.Dimension não limitará a quantidade de cadastros, seja de Alunos, Fornecedores, Clientes, Usuários, Projetos, Contratos e Análises
+2.2.1. Poderá haver limitação de espaço em disco, que é regulado pelo plano contratado junto ao ISP.
+2.2.2. O "administrador" poderá acompanhar a utilização do espaço em disco no próprio sistema.
+2.3. A disponibilidade mensal do sistema será garantida junto ao plano contrado com o ISP.
+2.4. Não haverá nenhuma espécie de cobrança em relação à utilização do PF.Dimension.
+2.5. Eventualmente para poder custear os investimentos em manutenção e atualização de versões poderá haver doação voluntária vinda de pessoas físicas e/ou jurídicas.
+3. Itens sujeitos a cobrança personalizada
+3.1. Palestras e Workshops sobre o PF.Dimension
+3.1.1. O solicitante deverá arcar com as despesas de diárias, passagens e/ou outros custos envolvidos.
+3.1.2. Os palestrantes atuam de forma voluntária, entretanto poderão ser cobrados honorários.
+3.2. Treinamentos presenciais.
+3.3. Treinamentos online.
+3.4. Integração com outros sistemas:
+3.4.1. Customização de módulos e APIs.
+3.4.1. Criação de novas APIs.
+3.5. Customizações em relatórios.
+3.5.1. Todos os relatórios podem ser customizados pelos usuários, e o serviço será cobrado à parte através de cálculo básico de H/H a depender do valor que o "consultor volutário" irá cobrar por seus honorários.
+3.6. Customização no PF.Dimension
+3.6.1. O PF.Dimension poderá ser customizado para alguma necessidade particular, desde que a customização ajude a "comunidade" de usuários e alcance o maior número possível.
+3.6.2. Todas as customizações passarão por um processo de avaliação, análise de abrangência e viabilidade, desenvolvimento, testes, implantação, comunicação aos usuários e liberação.
+3.6.2. O PF.Dimension não garante a execução de solicitações de mudança.
+4. Garantia de execução
+4.1. O PF.Dimension estará disponível 24x7.
+4.2. Não há garantia de SLA.
+4.3. Serão emitidos avisos aos usuários sobre as indisponibilidades programadas.
+4.4. Haverá backup diário do banco de dados.
+4.5. Nenhum dado pessoal será coletado sem o consentimento do usuário.
+4.5.1. Os dados pessoais coletados serão inseridos pela vontade do usuário em formulário próprio.
+4.5.2. Nenhum dado dos usuários serão repassados a parceiros, fornecedores, órgãos, empresas, etc.
+4.5.3. O CPF, o email e/ou o login "personalizado" são os únicos dados pessoais obrigatórios.
+4.5.4. Todos os dados inseridos no PF.Dimension podem ser "fictícios", apenas os CPF e email devem ser válidos.
+4.5.4.1. O CPF pode ser fictício, mas deve ser válido.
+4.5.4.2. O email deve ser válido porque o sistema utiliza mecanismos de controle de processos baseado no envio de emails.
